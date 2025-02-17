@@ -22,5 +22,4 @@ Hi, I am Zheng Gao, a senior algorithm engineer at [Ant Group](https://www.antgr
 
 I received my Ph.D. degree in Information Science and minor in Computer Science at [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. Besides, I finished my master degree at [University of Pittsburgh](https://www.pitt.edu/) and bachelor degree at [Shanghai International Studies University](http://en.shisu.edu.cn/).  
 
- My full efforts are currently in building up **large language models** and seeking potential industrial values in LLM-based applications. I am training 10B/65B self-innovated large language models to improve their reasoning capability, implementing agent-based applications to serve company internal use-cases, and developing evaluation pipelines to better assess LLM performances. 
-
+I am fully dedicated to building **large language models** (LLMs) and exploring their industrial potential. My work focuses on post-training self-innovated LLMs to enhance model reasoning capabilities, strengthening LLM agent abilities to tackle complex industrial scenarios, and creating evaluation platforms to effectively assess LLM performance.
