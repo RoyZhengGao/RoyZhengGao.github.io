@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Zheng Gao, a machine learning engineer at [Coupang](https://www.coupang.com/). Before I joined Coupang, I was an applied scientist in [Amazon Alexa AI](https://www.aboutamazon.com/news/amazon-ai) and [Ant Group](https://www.antgroup.com/en).
+Hi, I am Zheng Gao, a machine learning engineer at [Coupang](https://www.coupang.com/). Before I joined Coupang, I worked at [Amazon Alexa AI](https://www.aboutamazon.com/news/amazon-ai) and [Ant Group](https://www.antgroup.com/en).
 
 I received my Ph.D. degree in Information Science and minor in Computer Science at [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. Besides, I finished my master degree at [University of Pittsburgh](https://www.pitt.edu/) and bachelor degree at [Shanghai International Studies University](http://en.shisu.edu.cn/).  
 
