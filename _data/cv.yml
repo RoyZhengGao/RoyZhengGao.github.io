@@ -29,9 +29,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Staff Machine Learning Engineer
+      institution: Coupang
+      year: 05/2025 - now
+      description:
+        - Applied retrieval techniques in Ads tasks to enhance company-wide CVR, CTR, and GMV within Coupang’s E-commerce environment.
     - title: Senior Algorithm Engineer
       institution: Ant Group
-      year: 02/2023 - now
+      year: 02/2023 - 05/2025
       description:
         - Trained Ant Group self-innovated large language model (LLM) via supervised fine-tuning (SFT) and reinforcement learning (RL) techniques.
         - Developed an LLM agent platform serving hundreds of real-world applications for enterprise-wide internal management. 
@@ -62,6 +67,7 @@
   contents:
     - title: Conference Reviewer
       items: 
+        - The Conference on Information and Knowledge Management (CIKM 2025)
         - Annual Meeting of the Association for Computational Linguistics (ACL 2024)
         - ACM International Conference on Web Search and Data Mining (WSDM 2023,2024,2025)
         - AAAI Conference on Artificial Intelligence (AAAI 2022,2023,2024,2025)
